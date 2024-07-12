@@ -27,3 +27,4 @@ df = pd.DataFrame(records, index=['school1', 'school2', 'school3', 'school4'])
 
 print(df.head())  # Printing the first few rows of the DataFrame
 
+#https://github.com/dbabichenko/python_for_data_and_analytics
